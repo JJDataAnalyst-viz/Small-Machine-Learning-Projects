@@ -19,3 +19,4 @@ for training model to specify classification for 3 datasets namely:
     - diabetes dataset  (diabetes disease or not?)
     - titanic dataset (survive or not?)
     - cargo dataset (cargovascular disease or not?)
+  ### Multiple Linear Regression predicting sales from advertising in each communication field 
