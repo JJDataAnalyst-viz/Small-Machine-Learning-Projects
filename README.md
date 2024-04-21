@@ -19,5 +19,5 @@ for training model to specify classification for 3 datasets namely:
     - diabetes dataset  (diabetes disease or not?)
     - titanic dataset (survive or not?)
     - cargo dataset (cargovascular disease or not?)
-  ### 
+  ### XG-Boost Algorithm for Linear Regression problems
   ### Multiple Linear Regression predicting sales from advertising in each communication field 
