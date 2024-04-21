@@ -21,6 +21,6 @@ for training model to specify classification for 3 datasets namely:
     - cargo dataset (cargovascular disease or not?)
   ### XG-Boost Algorithm for Linear Regression problems 
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"> for looking in trends in linear regression model:
-      - Life Expetancy data
+      - Life Expectancy data
       - University Admission data
   ### Multiple Linear Regression predicting sales from advertising in each communication field 
