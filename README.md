@@ -16,11 +16,15 @@
   ### XG-Boost Algorithm for Classification problems
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40">
 for training model to specify classification for 3 datasets namely:
-    - diabetes dataset  (diabetes disease or not?)
-    - titanic dataset (survive or not?)
-    - cargo dataset (cargovascular disease or not?)
+    - Diabetes dataset  (diabetes disease or not?)
+    - Titanic dataset (survive or not?)
+    - Cargo dataset (cargovascular disease or not?)
   ### XG-Boost Algorithm for Linear Regression problems 
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"> for looking in trends in linear regression model:
       - Life Expectancy data
       - University Admission data
+  ### Predicting Housing Prices using Machine Learning
+  * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"> for Ridge Regression and Polynomial Regression:
+      - House sales prices in Seattle
   ### Multiple Linear Regression predicting sales from advertising in each communication field 
+  
