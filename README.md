@@ -13,12 +13,12 @@
 
 ##
 ## Contents
-  ### XG-Boost Algorithm for Classification problems 
+  ### XG-Boost Algorithm for Classification problems   [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">]() 
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40">
 for training model to specify classification for 3 datasets namely:
     - Diabetes dataset  (diabetes disease or not?)
-    - Titanic dataset (survive or not?)
-    - Cargo dataset (cargovascular disease or not?)
+    - [Titanic dataset](https://github.com/JJDataAnalyst-viz/Scikit-Learn-For-Machine-Learning-Classification-Problems/blob/main/Machine_Learning_Project/XGBoost-Algorithm-Calssification-Problem.ipynb) (survive or not?)
+    - [Cargo dataset](https://github.com/JJDataAnalyst-viz/Scikit-Learn-For-Machine-Learning-Classification-Problems/blob/main/Machine_Learning_Project/XGBoost-Algorithm-Calssification-Problem.ipynb) (cargovascular disease or not?)
   ### XG-Boost Algorithm for Linear Regression problems  [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">](https://github.com/JJDataAnalyst-viz/Regression-Model-Scikit-Learn) 
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"> for looking in trends in linear regression model:
       - [Life Expectancy data](https://github.com/JJDataAnalyst-viz/Regression-Model-Scikit-Learn/blob/main/Multilinear_Regression_Model/Scikit-Learn_Regression_Model_XG-boost.ipynb)
