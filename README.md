@@ -13,7 +13,7 @@
 
 ##
 ## Contents
-  ### XG-Boost Algorithm for Classification problems   [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">]() 
+  ### XG-Boost Algorithm for Classification problems   [<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="30">](https://github.com/JJDataAnalyst-viz/Scikit-Learn-For-Machine-Learning-Classification-Problems) 
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40">
 for training model to specify classification for 3 datasets namely:
     - Diabetes dataset  (diabetes disease or not?)
