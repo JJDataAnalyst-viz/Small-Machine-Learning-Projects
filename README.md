@@ -26,5 +26,5 @@ for training model to specify classification for 3 datasets namely:
   ### Predicting Housing Prices using Machine Learning
   * Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40"> for Ridge Regression and Polynomial Regression:
       - House sales prices in Seattle
-  ### Multiple Linear Regression predicting sales from advertising in each communication field 
+
   
