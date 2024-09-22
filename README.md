@@ -2,7 +2,7 @@
 ## Description
   This repository serves as a collection of small machine learning projects, each focusing on different aspects of machine learning and utilizing various libraries and algorithms. The projects are designed to be concise and easy to understand, making them suitable for learning   purposes and quick experimentation.
 
-## Features
+## Features 
   - **Scikit-learn**: Several projects will leverage the scikit-learn library, a popular machine learning toolkit in Python known for its simplicity and efficiency.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="60">
   - **PyTorch**: Some projects will involve PyTorch, a deep learning framework favored for its flexibility and ease of use. <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="90">
   - **TensorFlow**: TensorFlow, another widely used deep learning library, will also be utilized in certain projects, showcasing its capabilities in building and training neural networks. <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="30">
