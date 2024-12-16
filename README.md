@@ -1,4 +1,4 @@
-# Small-Machine-Learning-Projects
+# Machine Learning Projects
 ## Description
   This repository serves as a collection of small machine learning projects, each focusing on different aspects of machine learning and utilizing various libraries and algorithms. The projects are designed to be concise and easy to understand, making them suitable for learning   purposes and quick experimentation.
 
